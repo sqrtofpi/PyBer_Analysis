@@ -9,17 +9,17 @@ Pyber (a ride-sharing company), whose CEO V. Isualize has given my colleague Oma
 
 DataFrame by city type:
 
-![DataFrame of Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver by City Type:](../../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/DataFrame.png)
+![DataFrame of Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver by City Type:](https://github.com/sqrtofpi/PyBer_Analysis/blob/f87234b868d46bca07d3161f5415b025d2f411a7/analysis/DataFrame.png)
 
 As we can see in the summary DataFrame, most of the fares were collected from urban cities while rural cities offered the most lucrative fares to the drivers despite having much fewer drivers servicing these rural cities. To further illustrate the effect we submit a graphical representation:
 
-![PyBer Ride-Sharing Data (2019)](../../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/Fig1.png)
+![PyBer Ride-Sharing Data (2019)](../../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/Fig1-3594757.png)
 
 As the illustration confirms, although there are many more rides in the urban areas, likely due to population distribution, more money can be generated per ride in a rural city. With only 2.62% of driver availability in rural areas but the average ride offering an increase of 41.13% in revenue, it appears to be an opportunity worth further investigation.
 
 Our analysis also yielded another illustration showing the relationship over this 4 month period during 2019 which the dataset was obtained:
 
-![Total Fare by City Type](../../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/PyBer_fare_summary.png)
+![Total Fare by City Type](../../../Module%201%20-%20Kickstarting%20with%20Excel/Module%201%20Challenge/Resources/PyBer_fare_summary-3594791.png)
 
 This illustration shows the relative stability of fares collected in each city type. There are minor fluctuations in the fare contribution to the company, but any conclusive reason for the fluctuations would be speculative without further data to understand what might explain the differences over time. For instance, were there special events happening in the urban area through late February to mid-March that could've contributed to the spikes and declines in revenue, maybe spikes on weekends due to special events in the city? Also the spike in all three city types in late February could have some correlation but the data doesn't include what that event could be. There is no cross-over amongst these three city types during this time-frame and from the chart we could anticipate that trend would continue with more data but that is speculation as there may be a cyclical or seasonal component to PyBer's business model.
 
